@@ -64,6 +64,6 @@ _Field of study: Informatics and Computer Engineering_
 
 # 🏆 Achievements
 
-🥈 **Silver Prize — LCT Hackathon 2025, Avito Track**  
+🥈 **Silver Prize — Leader of Digital Transformation Hackathon 2025, **Avito** Track**  
 
 ---
